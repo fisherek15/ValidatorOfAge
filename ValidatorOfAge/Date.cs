@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ValidatorOfAge
 {
-    class Program
+    class Date
     {
-        static void Main(string[] args)
-        {
+        public int Day { get; set; }
+        public int Month { get; set; }
+        public int Year { get; set; }
 
-        }
     }
 }
