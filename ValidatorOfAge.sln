@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatorOfAge", "ValidatorOfAge\ValidatorOfAge.csproj", "{B2979C03-4C70-4DF1-9294-D96E8C850C10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatorOfAge_ver2", "ValidatorOfAge_ver2\ValidatorOfAge_ver2.csproj", "{321C0D62-5B12-4047-A26D-998A977E6740}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B2979C03-4C70-4DF1-9294-D96E8C850C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2979C03-4C70-4DF1-9294-D96E8C850C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2979C03-4C70-4DF1-9294-D96E8C850C10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321C0D62-5B12-4047-A26D-998A977E6740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321C0D62-5B12-4047-A26D-998A977E6740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321C0D62-5B12-4047-A26D-998A977E6740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321C0D62-5B12-4047-A26D-998A977E6740}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

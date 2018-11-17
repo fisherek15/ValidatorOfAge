@@ -25,7 +25,6 @@ namespace ValidatorOfAge
                 Console.WriteLine("You can drink an alcohol ;>");
             else
                 Console.WriteLine("You must not drink an alcohol!");
-
         }
     }
 }
